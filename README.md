@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam sharma
+- 👋 Hi, I’m shivam sharma
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
